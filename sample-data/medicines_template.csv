@@ -1,0 +1,4 @@
+medicine_name,brand_name,manufacturer_name,composition,strength,dosage_form,therapeutic_class
+Ibuprofen 400mg,Brufen 400,Abbott India Ltd,Ibuprofen IP,400 mg,Tablet,NSAID Analgesic
+Ciprofloxacin 500mg,Ciplox 500,Cipla Ltd,Ciprofloxacin Hydrochloride IP,500 mg,Tablet,Fluoroquinolone Antibiotic
+Omeprazole 20mg,Omez 20,Dr. Reddy's Laboratories,Omeprazole IP,20 mg,Capsule,Proton Pump Inhibitor

@@ -1,0 +1,11 @@
+medicine_name,brand_name,manufacturer_name,composition,strength,dosage_form,therapeutic_class
+Paracetamol 650mg,Dolo 650,Micro Labs Ltd,Paracetamol IP,650 mg,Tablet,Analgesic & Antipyretic
+Azithromycin 500mg,Azee 500,Cipla Ltd,Azithromycin Dihydrate IP,500 mg,Tablet,Antibiotic (Macrolide)
+Amoxicillin & Potassium Clavulanate,Augmentin 625 Duo,GlaxoSmithKline Pharmaceuticals,Amoxicillin (500mg) + Clavulanic Acid (125mg),625 mg,Tablet,Antibacterial Penicillin
+Metformin Hydrochloride 500mg,Glycomet 500,USV Private Limited,Metformin Hydrochloride IP,500 mg,Tablet,Antidiabetic (Biguanide)
+Pantoprazole Gastro-resistant,Pan 40,Alkem Laboratories Ltd,Pantoprazole Sodium IP,40 mg,Tablet,Proton Pump Inhibitor (Antacid)
+Atorvastatin 10mg,Atorva 10,Zydus Healthcare,Atorvastatin Calcium IP,10 mg,Tablet,Antihyperlipidemic (Statin)
+Telmisartan 40mg,Telma 40,Glenmark Pharmaceuticals Ltd,Telmisartan IP,40 mg,Tablet,Antihypertensive (ARB)
+Cetirizine Hydrochloride 10mg,Cetcip 10,Cipla Ltd,Cetirizine Hydrochloride IP,10 mg,Tablet,Antihistamine
+Cough Syrup DX,Ascoril D Plus,Glenmark Pharmaceuticals Ltd,Dextromethorphan + Phenylephrine + Chlorpheniramine,100 ml,Syrup,Antitussive
+Montelukast and Levocetirizine,Montair LC,Cipla Ltd,Montelukast Sodium (10mg) + Levocetirizine (5mg),15 mg,Tablet,Antiallergic
