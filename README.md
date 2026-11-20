@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VICTORY: A Web-Based Pharmaceutical Verification System Using QR Codes and Ed25519 Digital Signatures
 
 [![Technology Stack](https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20PostgreSQL%20%7C%20Ed25519-10b981.svg)](#technology-stack)
@@ -271,3 +272,6 @@ This software was engineered as a 2-credit academic mini-project demonstrating:
 - Role-based access control and security best practices
 - Multi-channel accessibility (voice and regional Indian language support)
 - Public health regulatory integration (CDSCO NSQ alerts)
+=======
+# victory
+>>>>>>> e3b966d4de06a79c4b678eef2247a2662d4c8ee5
